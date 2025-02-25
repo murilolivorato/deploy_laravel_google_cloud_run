@@ -3,8 +3,7 @@
 This guide walks you through deploying a Laravel application on Google Cloud Run, covering everything from Docker configuration to setting up your project in the Google Cloud Console.
 
 ## Instructions -
-https://medium.com/@murilolivorato/setting-up-a-laravel-development-environment-with-docker-and-docker-compose-a-step-by-step-5e37670ae640
-
+https://medium.com/@murilolivorato/deploying-a-laravel-project-on-google-cloud-run-a-step-by-step-guide-aad07135b0f0
 
 ## DEPLOY
 # check region 
